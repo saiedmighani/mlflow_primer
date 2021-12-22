@@ -27,7 +27,7 @@ mlflow_primer
 <br>    
 
 An example of the MLflow UI:
-<div style="text-align:center"><img src="assets/medium-figure1.png" /></div>
+<div style="text-align:center"><img src="assets/medium-figure2.png" /></div>
 
 ## Recommendation 
 In this post, we went over the benefits and also an example on how to transform any ML model into the MLflow tracker framework.
