@@ -31,4 +31,4 @@ An example of the MLflow UI:
 
 ## Recommendation 
 - If you are already well familiar with the steps in ML model training, MLflow has a pretty shallow learning curve (for light usages).<br>
-- MLFlow is currently integrated and compatible with multiple cloud platforms, including Spark, GCP, Azure, etc. So, it would be a good candidate to leverage for ML projects in production, at scale.
+- MLflow is currently integrated and compatible with multiple cloud platforms, including Spark, GCP, Azure, etc. So, it would be a good candidate to leverage for ML projects in production, at scale.
