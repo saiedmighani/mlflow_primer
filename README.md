@@ -30,6 +30,5 @@ An example of the MLflow UI:
 <div style="text-align:center"><img src="assets/medium-figure1.png" /></div>
 
 ## Recommendation 
-In this post, we went over the benefits and also an example on how to transform any ML model into the MLflow tracker framework.
-MLflow has a pretty shallow learning curve if you are already well familiar with the steps in ML model training. 
+If you are already well familiar with the steps in ML model training, MLflow has a pretty shallow learning curve (for light usages).<br>
 MLFlow is currently integrated and compatible with multiple cloud platforms, including Spark, GCP, Azure, etc. So, it would be a good candidate to leverage for ML projects in production, at scale.
