@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/smighani/Documents/DataWork/Github_personal/mlflow_primer/codes/mlruns/0/c818f55f8de74e97ac6d3ffed411b846/artifacts
+end_time: 1640151237302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c818f55f8de74e97ac6d3ffed411b846
+run_uuid: c818f55f8de74e97ac6d3ffed411b846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1640151232951
+status: 3
+tags: []
+user_id: smighani
